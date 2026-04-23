@@ -1,0 +1,10 @@
+[project]
+name = "scalability-scripts"
+version = "0.1.0"
+description = "Kytos-ng scalability development scripts"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "httpx>=0.28.1",
+    "ipython>=9.12.0",
+]
